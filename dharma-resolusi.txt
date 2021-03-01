@@ -2,3 +2,4 @@ Dharma Resolusi
 - Belajar php
 - Membangun sistem untuk skripsi
 - KP pas semester pendek
+- Cepat tamat dari Kampus
